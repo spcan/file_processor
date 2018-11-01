@@ -1,0 +1,13 @@
+[package]
+name = "file_processor"
+description = "Processing of files at runtime"
+version = "0.1.0"
+license = "MIT/Apache-2.0"
+repository = "https://github.com/spcan/file_processor"
+authors = ["spcan <agrc14@gmail.com>"]
+edition = "2018"
+keywords = ["file", "processing"]
+categories = ["filesystem"]
+
+[dependencies]
+load_file = "1.0.0"
